@@ -5,7 +5,7 @@
 - Vue 3
 - Typescript
 - Vite
-- Tailwind
+- Tailwindcss
 
 ### Installation
 ```sh
